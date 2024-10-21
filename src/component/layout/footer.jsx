@@ -53,7 +53,7 @@ class Footer extends Component {
                                             <img src="assets/images/footer/icons/01.png" alt="Phone-icon" />
                                         </div>
                                         <div className="lab-content">
-                                            <span>Phone Number : +88019 339 702 520</span>
+                                            <span>Phone Number : +91 1234567890</span>
                                         </div>
                                     </div>
                                 </div>
