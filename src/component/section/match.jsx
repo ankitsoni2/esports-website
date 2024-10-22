@@ -20,7 +20,7 @@ let MatchInfoListOne = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
         btntextTwo: 'Watch Now',
     },
 ]
@@ -36,7 +36,7 @@ let MatchInfoListTwo = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
     },
     {
         imageone: 'assets/images/match/teamsm/teamsm-3.png',
@@ -78,7 +78,7 @@ let MatchInfoListThree = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
     },
     {
         imageone: 'assets/images/match/teamsm/teamsm-9.png',

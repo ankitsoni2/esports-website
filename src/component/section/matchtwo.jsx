@@ -19,7 +19,7 @@ let MatchInfoListOne = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
         btntextTwo: 'Watch Now',
     },
     {
@@ -33,7 +33,7 @@ let MatchInfoListOne = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
         btntextTwo: 'Watch Now',
     },
     {
@@ -47,7 +47,7 @@ let MatchInfoListOne = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
         btntextTwo: 'Watch Now',
     },
     {
@@ -61,7 +61,7 @@ let MatchInfoListOne = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
         btntextTwo: 'Watch Now',
     },
     {
@@ -75,7 +75,7 @@ let MatchInfoListOne = [
         groupcount: '2 group',
         playercount: '32 Players',
         matchpname: 'Prize Pool',
-        matchpamount: '$3200',
+        matchpamount: 'Rs 3200',
         btntextTwo: 'Watch Now',
     },
 ]
